@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">CurrencyCalculate</string>
+    <string name="app_name">Currency Calculate</string>
+    <string name="calculate_button">Döviz Tipi Değiştir</string>
+    <string name="tl">TL</string>
+    <string name="usd">USD</string>
+    <string name="doviz_tutari">Döviz Tutarı</string>
+    <string name="tl_tutari">TL Tutarı</string>
+    <string name="virgul">,</string>
+    <string-array name="spn_array">
+        <item>Satış</item>
+        <item>Alış</item>
+    </string-array>
 </resources>
