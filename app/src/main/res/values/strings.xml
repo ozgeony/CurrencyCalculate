@@ -6,8 +6,14 @@
     <string name="doviz_tutari">Döviz Tutarı</string>
     <string name="tl_tutari">TL Tutarı</string>
     <string name="virgul">,</string>
+    <string name="doviz_secimi">Döviz Seçimi</string>
     <string-array name="spn_array">
         <item>Satış</item>
         <item>Alış</item>
+    </string-array>
+    <string-array name="doviz_tipi_array">
+        <item>USD \t\t\t\t\t\t\t\t Alış \t : 3.7390 \n\t\t\t\t\t\t\t\t\t\t\t Satış : 3.7550</item>
+        <item>EUR \t\t\t\t\t\t\t\t Alış \t : 3.9798 \n\t\t\t\t\t\t\t\t\t\t\t Satış : 3.9993</item>
+        <item>GBP \t\t\t\t\t\t\t Alış \t : 4.5430 \n\t\t\t\t\t\t\t\t\t\t\t Satış : 4.5697</item>
     </string-array>
 </resources>
